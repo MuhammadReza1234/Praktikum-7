@@ -1,4 +1,4 @@
-x = mahasiswa = {}
+mahasiswa = {}
 
 def tambah():
     print("Tambah Data")
