@@ -43,6 +43,10 @@ print(d("buku"))
 
 <img width="554" alt="204752446-3289e1d2-7395-4f23-810c-eaa1c4c8323b" src="https://user-images.githubusercontent.com/115542704/205073183-0b606f09-d0fd-4338-ac58-8867f47281e8.png">
 
+# Flowchart
+
+![flowchart (1)](https://user-images.githubusercontent.com/115516607/205226090-2fbca471-d8ab-420e-8b02-3ff95e3fc05c.png)
+
 ## Jawab
 
 - Pertama buat dahulu **dictionary** kosong untuk menampung data-data yang ingin diinputkan
