@@ -172,23 +172,23 @@ Berikut programnya:
 ```
 
 ## Output:
-ini adalah output apabila memilih tambah (t)
+- ini adalah output apabila memilih tambah (t)
 
 <img width="287" alt="t 2" src="https://user-images.githubusercontent.com/115516607/205215668-c8ad693f-9f9f-417e-b9c3-6e4a638e1e25.png">
 
-ini adalah output apabila memilih lihat (l)
+- ini adalah output apabila memilih lihat (l)
 
 <img width="508" alt="l 2" src="https://user-images.githubusercontent.com/115516607/205215774-678a1df2-f8b0-47ec-b604-bc95da45b5f4.png">
 
-ini adalah output apabila memilih ubah (u)
+- ini adalah output apabila memilih ubah (u)
 
 <img width="506" alt="u 2" src="https://user-images.githubusercontent.com/115516607/205215862-f14e78e5-e0af-4b0d-bd3e-50aba351dd6c.png">
 
-ini adalah output apabila memilih hapus (h) 
+- ini adalah output apabila memilih hapus (h) 
 
 <img width="502" alt="h 2" src="https://user-images.githubusercontent.com/115516607/205215895-48758a41-6954-4b2b-b1ff-2e3d7d3a43e2.png">
 
-ini adalah output apabila memilih keluar (k)
+- ini adalah output apabila memilih keluar (k)
 
 <img width="504" alt="k 4" src="https://user-images.githubusercontent.com/115516607/205219260-f60b30ae-dd3a-4997-9d64-f5baa55ae972.png">
 
