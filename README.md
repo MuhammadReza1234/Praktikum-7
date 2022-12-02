@@ -174,23 +174,22 @@ Berikut programnya:
 ## Output:
 ini adalah output apabila memilih tambah (t)
 
-<img width="286" alt="t 1" src="https://user-images.githubusercontent.com/115542704/205082552-70bec59a-8461-4c07-90b8-f399bfb025fa.png">
+<img width="287" alt="t 2" src="https://user-images.githubusercontent.com/115516607/205215668-c8ad693f-9f9f-417e-b9c3-6e4a638e1e25.png">
 
 ini adalah output apabila memilih lihat (l)
 
-<img width="500" alt="l 1" src="https://user-images.githubusercontent.com/115542704/205083193-7ed44a8e-f683-43df-b603-e859cad1ac4c.png">
+<img width="508" alt="l 2" src="https://user-images.githubusercontent.com/115516607/205215774-678a1df2-f8b0-47ec-b604-bc95da45b5f4.png">
 
 ini adalah output apabila memilih ubah (u)
 
-<img width="509" alt="u 1" src="https://user-images.githubusercontent.com/115542704/205083267-70606bc7-7a04-4ae9-bd38-71cf8af96ada.png">
+<img width="506" alt="u 2" src="https://user-images.githubusercontent.com/115516607/205215862-f14e78e5-e0af-4b0d-bd3e-50aba351dd6c.png">
 
 ini adalah output apabila memilih hapus (h) 
 
-<img width="505" alt="h 1" src="https://user-images.githubusercontent.com/115542704/205082847-cf36fc1a-aff2-4598-a7ea-b2436865f68c.png">
+<img width="502" alt="h 2" src="https://user-images.githubusercontent.com/115516607/205215895-48758a41-6954-4b2b-b1ff-2e3d7d3a43e2.png">
 
 ini adalah output apabila memilih keluar (k)
 
-<img width="506" alt="k 3" src="https://user-images.githubusercontent.com/115542704/205201368-4cc2f841-ea90-4a15-9346-46bd84dc328f.png">
 
 ## SEKIAN TERIMAKASIH
 
